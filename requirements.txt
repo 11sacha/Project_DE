@@ -1,0 +1,10 @@
+tweepy
+pandas==1.5.3
+numpy
+SQLAlchemy
+praw
+geopy
+boto3
+python-dotenv
+psycopg2-binary
+openpyxl

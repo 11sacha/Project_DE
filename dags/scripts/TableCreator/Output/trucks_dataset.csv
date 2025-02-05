@@ -1,0 +1,500 @@
+brand;model;year;mileage
+Jeep;Wagoneer;2024;74600
+Jeep;Grand Cherokee;2024;50170
+GMC;Yukon XL;2024;96410
+Dodge;Durango;2023;46835
+RAM;3500;2024;81663
+Nissan;Murano;2024;46000
+Jeep;Wagoneer;2024;63862
+Ford;F-350;2024;89978
+Hyundai;Tucson Hybrid;2024;42230
+Jeep;Grand Cherokee;2024;42773
+Jeep;Compass;2024;37743
+RAM;3500;2024;60904
+Hyundai;Santa Cruz;2024;43419
+Jeep;Grand Cherokee;2024;44022
+Chevrolet;Blazer EV;2024;51695
+Hyundai;Santa Cruz;2024;38574
+Nissan;Murano;2024;48000
+Ford;Explorer;2024;53190
+Volkswagen;Taos;2024;32751
+Volkswagen;Jetta;2024;24348
+RAM;3500;2024;65221
+Dodge;Hornet;2024;39491
+Hyundai;Tucson;2024;30305
+GMC;Terrain;2024;44120
+Hyundai;Santa Cruz;2024;33160
+Ford;Explorer;2024;40940
+Jeep;Compass;2024;34084
+Chrysler;Pacifica;2024;48705
+Chevrolet;Blazer EV;2024;52190
+RAM;2500;2024;58855
+Nissan;Murano;2024;39867
+Ford;Transit-250;2024;53595
+Jeep;Grand Cherokee 4xe;2023;59547
+Kia;EV6;2024;49820
+Volkswagen;Jetta;2024;27175
+Ford;Mustang Mach-E;2024;47790
+Chevrolet;Silverado 1500;2024;58610
+Kia;Seltos;2024;29640
+Chevrolet;Blazer;2024;43727
+GMC;Terrain;2024;35870
+RAM;3500;2024;64670
+Jeep;Wrangler;2024;46973
+Jeep;Grand Cherokee 4xe;2024;54905
+Mazda;CX-90 PHEV;2024;50915
+Acura;MDX;2024;65595
+Jeep;Compass;2024;28860
+Dodge;Durango;2023;46835
+Subaru;Outback;2024;44354
+Volkswagen;Atlas Cross Sport;2024;51721
+Hyundai;IONIQ 5;2024;44195
+Audi;Q8 e-tron;2024;86670
+Volkswagen;Jetta;2024;24348
+Hyundai;Sonata Hybrid;2024;38870
+Kia;EV9;2024;52388
+Dodge;Durango;2024;58709
+Dodge;Hornet;2024;42855
+Dodge;Hornet;2024;34990
+Kia;Sportage Hybrid;2024;34835
+GMC;Terrain;2024;35870
+Ford;Expedition;2024;69955
+Dodge;Hornet;2024;39581
+Volkswagen;Atlas;2024;49166
+Hyundai;IONIQ 5;2024;55365
+Jeep;Grand Cherokee L;2024;51360
+Hyundai;Tucson;2024;40474
+BMW;X7;2024;89450
+Jeep;Compass;2024;28860
+Toyota;Tundra Hybrid;2024;62341
+Hyundai;IONIQ 5;2024;42015
+Nissan;Kicks;2024;24500
+Buick;Envista;2024;27075
+Acura;MDX;2024;51645
+Nissan;Rogue;2024;35975
+Jeep;Wagoneer;2024;63057
+Nissan;Rogue;2024;36405
+Jeep;Wagoneer L;2024;86137
+Kia;Sportage;2024;27969
+Acura;MDX;2024;51645
+RAM;3500;2024;63223
+Dodge;Durango;2023;47785
+Nissan;Murano;2024;46000
+GMC;Yukon XL;2024;96410
+Nissan;Rogue;2024;41180
+Dodge;Hornet;2024;44720
+Jeep;Grand Cherokee L;2024;49390
+Jeep;Compass;2024;28860
+Mercedes-Benz;EQE 350.00;2024;76535
+Buick;Envista;2024;31805
+Dodge;Durango;2024;44160
+Hyundai;Sonata;2024;28469
+RAM;3500;2024;58930
+GMC;Terrain;2024;35236
+Jeep;Wagoneer;2024;60555
+Ford;Ranger;2024;38740
+Audi;SQ5;2024;0
+RAM;3500;2024;66334
+Audi;Q5 e;2024;73020
+RAM;3500;2024;89555
+RAM;3500;2024;65315
+Mazda;CX-90 PHEV;2024;58599
+Ford;Mustang Mach-E;2023;50473
+Dodge;Hornet;2024;47234
+Chevrolet;Silverado 1500;2024;44161
+Chevrolet;Silverado 1500;2024;49496
+Chevrolet;Silverado 1500;2024;43475
+Dodge;Charger;2023;36083
+Chevrolet;Silverado 1500;2024;54559
+Mercedes-Benz;Sprinter 2500;2024;60061
+Jeep;Compass;2024;28867
+Honda;CR-V Hybrid;2024;42005
+Hyundai;IONIQ 6;2024;45005
+Hyundai;Tucson Hybrid;2024;35864
+Jeep;Compass;2023;30000
+Kia;Sportage;2024;34000
+Jeep;Compass;2024;29342
+Ford;Transit-150;2024;55645
+Audi;Q8 e-tron;2024;83630
+Jeep;Wrangler;2024;59456
+Jeep;Grand Cherokee;2024;39714
+Chevrolet;Silverado 1500;2024;49628
+Hyundai;Tucson Hybrid;2024;33089
+Mercedes-Benz;EQE 350.00;2024;79765
+Dodge;Charger;2023;65075
+Jeep;Compass;2024;38980
+Hyundai;Santa Fe;2024;49905
+Jeep;Grand Cherokee 4xe;2024;58235
+Volkswagen;Taos;2024;27998
+Chevrolet;Equinox;2024;25515
+Subaru;Solterra;2024;39934
+Jeep;Wrangler 4xe;2024;66960
+Mazda;CX-90 PHEV;2024;53395
+Hyundai;IONIQ 5;2024;61775
+RAM;ProMaster 2500;2024;53272
+Lincoln;Corsair;2024;51361
+GMC;Savana 2500;2024;44595
+Chrysler;Pacifica Hybrid;2024;60600
+Dodge;Hornet;2024;38575
+Acura;ZDX;2024;69850
+Nissan;Altima;2024;31225
+Hyundai;Sonata Hybrid;2024;32520
+Dodge;Charger;2023;35821
+Mazda;CX-90 PHEV;2024;60200
+Mercedes-Benz;EQS 450;2024;
+Dodge;Hornet;2024;36532
+Jeep;Grand Cherokee 4xe;2024;61506
+Mazda;CX-90 PHEV;2024;59625
+Mercedes-Benz;EQS 450;2024;109545
+Dodge;Hornet;2024;35480
+Jeep;Compass;2024;31200
+Jeep;Wrangler 4xe;2024;54835
+Jeep;Grand Cherokee;2024;52115
+Volkswagen;Taos;2024;32011
+RAM;ProMaster 3500;2024;53099
+Dodge;Durango;2023;46835
+Volkswagen;Taos;2024;30383
+Cadillac;XT5;2024;46890
+Jeep;Grand Cherokee;2024;37729
+Jeep;Wrangler 4xe;2024;53535
+Dodge;Charger;2023;37490
+Dodge;Hornet;2024;44600
+Dodge;Durango;2024;45038
+Acura;MDX;2024;56155
+Jeep;Wrangler;2024;60972
+Jeep;Gladiator;2023;53796
+Dodge;Hornet;2024;41497
+Volkswagen;Taos;2024;25311
+Dodge;Charger;2023;35913
+INFINITI;QX50;2024;48350
+Nissan;Versa;2024;21000
+GMC;Savana 2500;2024;44620
+Mercedes-Benz;AMG GLE 53;2024;90995
+Mazda;CX-90 PHEV;2024;56079
+Ford;F-350;2024;52263
+Dodge;Durango;2023;46835
+Dodge;Hornet;2024;42991
+Jeep;Grand Cherokee 4xe;2024;54910
+Audi;A5 Sportback;2024;56105
+Lincoln;Nautilus;2024;64370
+Dodge;Durango;2023;44790
+Chevrolet;Trailblazer;2024;32580
+BMW;i4 Gran Coupe;2024;69685
+Hyundai;Santa Cruz;2024;34330
+Dodge;Hornet;2024;37430
+Hyundai;Santa Cruz;2024;42015
+Hyundai;Santa Cruz;2024;32925
+Jeep;Wrangler 4xe;2024;57870
+Jeep;Compass;2024;28265
+Volkswagen;Taos;2024;30618
+Ford;Escape;2024;31985
+Ford;Bronco Sport;2024;35210
+Hyundai;Santa Fe;2024;42455
+Hyundai;IONIQ 6;2023;51820
+Hyundai;IONIQ 5;2024;49795
+Jeep;Compass;2024;31721
+Dodge;Durango;2024;44852
+Dodge;Hornet;2024;32485
+Dodge;Durango;2023;46835
+Jeep;Grand Cherokee L;2024;39370
+Dodge;Hornet;2024;45844
+Jeep;Wagoneer L;2024;78543
+Hyundai;Elantra HEV;2024;27080
+RAM;3500;2024;83940
+Volkswagen;Atlas Cross Sport;2024;48541
+RAM;3500;2024;81036
+Mazda;CX-90 PHEV;2024;54949
+RAM;3500;2024;67562
+Mazda;CX-90 PHEV;2024;58399
+Lexus;RX 500h;2024;73270
+RAM;3500;2024;89040
+Hyundai;IONIQ 5;2024;52905
+Ford;Mustang Mach-E;2024;46920
+Chevrolet;Silverado 1500;2024;65175
+Nissan;Versa;2024;20389
+Mazda;CX-90 PHEV;2024;50599
+Ford;Mustang Mach-E;2023;46935
+Hyundai;Santa Fe;2024;38100
+Kia;Sportage;2024;31190
+Jeep;Wrangler 4xe;2024;50755
+Hyundai;IONIQ 5;2024;42201
+Honda;Prologue;2024;55800
+Hyundai;Tucson Hybrid;2024;35404
+Hyundai;Tucson Hybrid;2024;35656
+Jeep;Compass;2024;32660
+Hyundai;IONIQ 6;2024;50850
+Jeep;Wrangler 4xe;2024;61860
+Volkswagen;Taos;2024;25895
+Nissan;Kicks;2024;26600
+BMW;i5;2024;91825
+Hyundai;Santa Cruz;2024;37325
+Jeep;Grand Cherokee;2024;52642
+Jeep;Compass;2024;40235
+Dodge;Durango;2023;46835
+Hyundai;Santa Cruz;2024;42064
+Hyundai;Tucson Hybrid;2024;39832
+Jeep;Wagoneer;2024;65928
+Dodge;Hornet;2024;41036
+Volkswagen;Taos;2024;33331
+Dodge;Hornet;2024;51835
+GMC;Terrain;2024;44120
+Hyundai;IONIQ 5;2024;42466
+Dodge;Durango;2023;47340
+Jeep;Grand Cherokee L;2024;54209
+RAM;3500;2024;86505
+Dodge;Hornet;2024;48595
+Mazda;MX-5 Miata RF;2023;38040
+Acura;MDX;2024;52950
+Dodge;Durango;2023;46835
+Jeep;Grand Cherokee L;2024;52567
+Dodge;Durango;2024;
+Dodge;Durango;2023;47340
+Jeep;Wagoneer;2024;87488
+Hyundai;IONIQ 5;2024;43904
+Chevrolet;Blazer EV;2024;55090
+Mercedes-Benz;EQS 450;2024;110395
+Jeep;Grand Cherokee;2024;44737
+Volkswagen;ID.4;2024;41693
+Hyundai;Santa Cruz;2024;41995
+Honda;CR-V;2024;38855
+Jeep;Grand Cherokee 4xe;2024;58909
+RAM;2500;2024;65350
+Jeep;Grand Cherokee L;2024;49411
+Jeep;Wagoneer;2024;72908
+Jeep;Compass;2023;37105
+Dodge;Hornet;2024;50590
+Chevrolet;Silverado 2500;2024;70190
+Chevrolet;Equinox;2024;25515
+Jeep;Wrangler;2024;59542
+RAM;ProMaster 2500;2024;53445
+RAM;2500;2024;79675
+GMC;Sierra 3500;2024;87075
+Ford;Escape;2024;34799
+RAM;2500;2024;67125
+Jeep;Grand Cherokee L;2024;46721
+Kia;EV6;2024;43348
+Jeep;Grand Cherokee 4xe;2024;56119
+Volkswagen;Taos;2024;28193
+Mazda;CX-90 PHEV;2024;58949
+Mazda;CX-90 PHEV;2024;54949
+Mazda;CX-90 PHEV;2024;54949
+Subaru;Legacy;2024;31042
+Dodge;Hornet;2024;34000
+Mazda;CX-90 PHEV;2024;54449
+Ford;F-350;2024;77885
+Chrysler;300;2023;
+Jeep;Compass;2024;31535
+Mazda;CX-90 PHEV;2024;50349
+Acura;MDX;2024;56345
+BMW;i4 Gran Coupe;2024;73670
+Mazda;CX-90 PHEV;2024;50675
+RAM;3500;2024;64516
+Dodge;Hornet;2024;36480
+Audi;Q8 e-tron;2024;89780
+Dodge;Durango;2023;47340
+BMW;i7;2024;110445
+Volkswagen;Jetta;2024;26104
+Dodge;Hornet;2024;42790
+Dodge;Durango;2023;46835
+Dodge;Durango;2023;47340
+BMW;M235 Gran Coupe;2024;54545
+RAM;3500;2024;65774
+Nissan;Rogue;2024;34305
+Dodge;Hornet;2024;44621
+Dodge;Hornet;2024;39763
+RAM;3500;2024;67237
+Honda;CR-V Hybrid;2024;36900
+Ford;Expedition;2024;90350
+Ford;Expedition;2024;83910
+Audi;Q8 e-tron;2024;84465
+Chevrolet;Silverado 1500;2024;49944
+Kia;Sportage;2024;32433
+Kia;Sportage;2024;33095
+Kia;Sportage;2024;39990
+Land Rover;Range Rover Evoque;2024;62145
+Honda;Odyssey;2024;48364
+RAM;2500;2024;83374
+Honda;Prologue;2024;56550
+Chevrolet;Equinox;2024;31222
+GMC;Sierra 2500;2024;85845
+Kia;Sportage;2024;30034
+Dodge;Durango;2023;44170
+Audi;Q5 e;2024;69995
+Volkswagen;Jetta;2024;27554
+Nissan;Titan;2024;45716
+Audi;RS e-tron GT;2024;153690
+Ford;Edge;2024;42715
+Hyundai;Santa Cruz;2024;36970
+Volkswagen;Jetta;2024;26329
+Chevrolet;Equinox;2024;30101
+Mercedes-Benz;EQS 450;2024;
+Jeep;Grand Cherokee 4xe;2024;54899
+Kia;Sportage;2024;32198
+Nissan;Titan;2024;54585
+Jeep;Compass;2024;35999
+Hyundai;Tucson Hybrid;2024;36882
+Dodge;Durango;2023;47340
+INFINITI;QX50;2024;45055
+RAM;3500;2024;69697
+Ford;Mustang Mach-E;2024;49285
+Dodge;Durango;2023;47785
+Jeep;Wrangler 4xe;2024;51083
+Kia;EV6;2024;41528
+Nissan;Kicks;2024;27400
+Mazda;CX-90 PHEV;2024;52445
+Hyundai;Tucson Hybrid;2024;34600
+Dodge;Durango;2023;47165
+Jeep;Compass;2024;34084
+Jeep;Grand Cherokee;2024;50184
+Hyundai;IONIQ 5;2024;45842
+Hyundai;Santa Cruz;2024;40380
+Land Rover;Discovery Sport;2024;55353
+Mercedes-Benz;Sprinter 3500;2024;72357
+Hyundai;Tucson Hybrid;2024;34492
+Hyundai;Santa Cruz;2024;36000
+Jeep;Compass;2024;35999
+Jeep;Grand Cherokee;2024;53160
+Jeep;Grand Cherokee 4xe;2024;59116
+Jeep;Wrangler;2024;67510
+Honda;Odyssey;2024;48187
+Volkswagen;Jetta;2024;25923
+Jeep;Grand Cherokee;2024;50702
+Volvo;XC90 Recharge Plug-In Hybrid;2024;75595
+Jeep;Wrangler 4xe;2024;51845
+Cadillac;XT5;2024;60915
+RAM;3500;2024;71167
+Hyundai;Santa Cruz;2024;41975
+Jeep;Compass;2024;38481
+Hyundai;Sonata Hybrid;2024;32520
+Kia;Sorento;2023;48861
+Chevrolet;Equinox;2024;31537
+Jeep;Grand Cherokee;2024;47175
+Dodge;Hornet;2024;51585
+Jeep;Wagoneer L;2023;86097
+Mercedes-Benz;EQS 450;2024;
+Mercedes-Benz;EQS 450;2024;114850
+Nissan;Frontier;2024;37946
+Chevrolet;Equinox;2024;31301
+RAM;3500;2023;63010
+Nissan;Titan;2024;50030
+GMC;Savana 2500;2024;42990
+Chevrolet;Equinox;2024;32635
+Nissan;Titan;2023;46672
+Honda;HR-V;2024;27450
+Kia;Niro;2024;34310
+Buick;Encore GX;2024;36190
+Kia;EV9;2024;52388
+Mazda;CX-90 PHEV;2024;57849
+Ford;Edge;2024;44615
+Kia;Sportage;2024;34985
+Jeep;Compass;2024;28867
+RAM;ProMaster 2500;2024;53890
+Hyundai;IONIQ 6;2024;48510
+Kia;Sportage;2024;31190
+Genesis;Electrified G80;2023;81525
+Hyundai;IONIQ 5;2024;52515
+Hyundai;Tucson Hybrid;2024;35364
+Hyundai;Tucson Hybrid;2024;35885
+Mercedes-Benz;GLE 450;2024;85630
+Jeep;Grand Cherokee;2024;47530
+Mazda;CX-90 PHEV;2024;58399
+Jeep;Wagoneer;2024;75888
+Chevrolet;Silverado 1500;2024;49632
+Mazda;CX-90 PHEV;2024;55439
+Volkswagen;Taos;2024;30618
+Dodge;Charger;2023;35821
+Dodge;Charger;2023;36083
+Mercedes-Benz;GLS 450;2024;98180
+Dodge;Hornet;2024;44604
+Acura;MDX;2024;57650
+Jeep;Compass;2024;32269
+Hyundai;IONIQ 5;2024;42466
+Dodge;Hornet;2024;45051
+Land Rover;Discovery Sport;2024;57508
+Ford;Transit-250;2024;51803
+Mercedes-Benz;EQS 450;2024;114160
+Acura;MDX;2024;56800
+Jeep;Grand Cherokee L;2024;52631
+Jeep;Compass;2024;38500
+RAM;3500;2024;
+Chevrolet;Trax;2024;24680
+BMW;i5;2024;96895
+Jeep;Wrangler 4xe;2024;54490
+RAM;3500;2024;80095
+Honda;Odyssey;2024;44350
+RAM;ProMaster 3500;2023;66375
+BMW;i5;2024;93335
+Chevrolet;Silverado 1500;2024;57635
+Chrysler;Pacifica;2023;45300
+Jeep;Compass;2024;28860
+Dodge;Hornet;2024;34637
+Jeep;Grand Cherokee;2024;50184
+Jeep;Wagoneer L;2024;87190
+Mazda;CX-90 PHEV;2024;55399
+Hyundai;Tucson Hybrid;2024;41391
+Ford;Bronco Sport;2024;30020
+Chrysler;300;2023;
+Dodge;Durango;2023;46835
+BMW;i5;2024;74695
+Jeep;Grand Cherokee L;2024;66360
+Nissan;Kicks;2024;26500
+Dodge;Durango;2023;53995
+Land Rover;Defender;2024;77645
+Jeep;Wrangler 4xe;2024;58648
+Chrysler;Pacifica;2024;46450
+Jeep;Compass;2024;
+Ford;Edge;2024;41195
+Jeep;Gladiator;2024;46791
+GMC;Yukon XL;2024;76648
+Audi;SQ8 e-tron;2024;106215
+Dodge;Durango;2023;47165
+Audi;Q5 e;2024;78695
+BMW;X7;2024;115445
+Jeep;Compass;2024;34182
+Kia;Sorento Hybrid;2024;39390
+Dodge;Hornet;2024;38546
+Kia;Seltos;2024;28630
+RAM;2500;2024;61865
+Jeep;Compass;2024;26860
+Jeep;Compass;2024;29826
+Dodge;Hornet;2024;42597
+Kia;Niro;2024;37135
+Dodge;Hornet;2024;52180
+Dodge;Hornet;2024;30900
+Jeep;Grand Cherokee 4xe;2024;61506
+Buick;Envision;2023;37135
+Ford;Escape;2024;33590
+Ford;Escape;2024;41765
+Jeep;Grand Cherokee L;2024;50377
+Chevrolet;Silverado 1500;2024;65416
+Hyundai;Santa Cruz;2024;43299
+Dodge;Durango;2023;46835
+Jeep;Grand Cherokee;2024;47744
+Jeep;Grand Cherokee L;2024;53455
+Ford;Transit-250;2024;52853
+Ford;Bronco;2024;69035
+Dodge;Hornet;2024;32485
+Kia;Niro;2024;31860
+Subaru;Outback;2024;44354
+Hyundai;Elantra HEV;2024;27080
+Acura;MDX;2024;56800
+Kia;EV6;2024;43348
+Ford;Mustang Mach-E;2024;49770
+Ford;Mustang Mach-E;2023;46775
+RAM;3500;2024;64214
+RAM;3500;2024;82523
+Mercedes-Benz;EQS 450;2024;117985
+Chevrolet;Silverado 1500;2024;49496
+Chevrolet;Silverado 1500;2024;43135
+Jeep;Compass;2024;28867
+Kia;Sportage;2024;35490
+Honda;Prologue;2024;55800
+Honda;Prologue;2024;55800
+Hyundai;Tucson Hybrid;2024;33109
+Mazda;CX-90 PHEV;2024;54949
+Hyundai;Tucson Hybrid;2024;39832
+Hyundai;IONIQ 5;2024;51765
+Ford;Mustang Mach-E;2024;45780
+Dodge;Charger;2023;37490
+RAM;2500;2024;46670
+Ford;Expedition;2024;88135
